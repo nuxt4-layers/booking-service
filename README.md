@@ -1,1 +1,1 @@
-# booking-service
+# @nuxt4-layers/booking-service
